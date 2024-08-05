@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468450039660",
+    "project_id": "smartgardenapp-da683",
+    "storage_bucket": "smartgardenapp-da683.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468450039660:android:a94ddf2e4cd75a4f880549",
+        "android_client_info": {
+          "package_name": "com.smartgarden.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB0veHn1dTnbbCYRKCYAFGrI5hVn0GaZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
